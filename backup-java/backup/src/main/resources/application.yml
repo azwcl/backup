@@ -1,0 +1,7 @@
+server:
+  port: 9999
+
+file:
+  storage:
+    # 配置的文件存储目录；backup.json 放置于此；且 导出 sql 文件放置于此
+    directory: /Users/azwcl/Downloads/test/
